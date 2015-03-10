@@ -1,0 +1,4 @@
+/Users/InnovaTI/AndroidStudioProjects/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/classes/debug
+/Users/InnovaTI/AndroidStudioProjects/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-2548e07cd772479b909722ca6d2aa8da2bc0b497.jar
+/Users/InnovaTI/AndroidStudioProjects/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.3-f77a73bf9ef74e148a176ac9e13dcc1b55571bdb.jar
+/Users/InnovaTI/AndroidStudioProjects/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.3-4bf3ce50dd0ac5582bf5757becc15cd4d0c2ef59.jar
